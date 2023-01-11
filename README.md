@@ -31,4 +31,4 @@ Here's the shortlist for what will be implemented next, in no particular order:
 - Lambda expressions that can have multiple expressions in the body.
 - A stage 2 interpreter that runs in the stage 1 interpreter or more full-fat versions of lisp
 
-After all of these features are implemented there may be more advanced features planned. Or not ¯\\_(ツ)_/¯
+After all of these features are implemented there may be more advanced features planned. Or not ¯\\\_(ツ)_/¯
